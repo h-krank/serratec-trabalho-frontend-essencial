@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="../css/main.css">
   <title>Serratec | Sobre</title>
 </head>
-
 <body>
 
   <div class="container">
@@ -23,21 +22,21 @@
       <ul class="navbar-nav">
 
         <li class="nav-item">
-          <a class="nav-link" href="../index.html">Home</a>
+          <a class="nav-link" href="/">Home</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="./contato.html">Contato</a>
+          <a class="nav-link" href="contato">Contato</a>
         </li>
 
         <li class="nav-item active">
-          <a class="nav-link" href="./sobre.html">Sobre</a>
+          <a class="nav-link" href="sobre">Sobre</a>
         </li>
 
       </ul>
 
       <div class="ml-auto">
-        <button class="btn btn-light">Login</button>
+        <button class="btn btn-light" onclick="window.location.href='/login'">Login</button>
         <button class="btn btn-light">Sign-up</button>
       </div>
     </nav>
@@ -45,33 +44,21 @@
     <div class="row">
       <div class="col-12 col-lg-6 my-auto">
         <h1>Quem Somos</h1>
-        <p>
-          Maior parque tecnológico do interior do Estado do Rio de Janeiro, o SerraTec – Parque Tecnológico Região
-          Serrana é a união do setor de tecnologia das três principais cidades da Região Serrana Fluminense: Petrópolis,
-          Teresópolis e Nova Friburgo, sendo que cada uma destas cidades constitui um pilar do SerraTec, único parque
-          tecnológico no Brasil que não esteja confinado numa área delimitada e ser de âmbito regional.
-        <p>
-          No setor de TIC
-          as 3 cidades juntas, elas contam com cerca de 170 empresas, empregando mais de 3 mil funcionários, com um
-          faturamento de R$ 585 milhões anuais. Todas as empresas trabalham na produção de software, de novas
-          tecnologias, em projetos de inovação e com pesquisa e desenvolvimento.
-        </p>
+        <p id="txt1"> </p>
+          
+        <p id="txt2"> </p>
       </div>
       <div class="col-12 col-lg-6 my-auto">
         <img class="img-fluid" src="../img/membros.jpg" alt="Membros-serratec">
       </div>
     </div>
 
-
     <hr>
 
     <div class="jumbotron jumbotron-fluid pt-4">
       <div class="container-fluid">
         <h1 class="pb-3">Nossa Missão</h1>
-        <p>A missão do SerraTec é tornar a região serrana fluminense uma referência ainda maior, atraindo novas empresas
-          e fortalecendo as que já estão instaladas nestas 3 cidades, captando assim investimentos para o
-          desenvolvimento regional e, não só isso, estando também no centro das principais inovações tecnológicas do
-          país.</p>
+        <p id="missao"> </p>
         </p>
       </div>
     </div>
@@ -85,28 +72,19 @@
       </div>
       <div class="col-12 col-lg-6 my-auto">
         <h1 class="pt-3 mb-4">História</h1>
-        <p>Criado em 2002, o SerraTec também tem o apoio dos governos municipais das três cidades, além de entidades e
-          instituições de ensino. O SerraTec abriga nas 3 cidades empresas nacionais e multinacionais, modernos
-          laboratórios e centros de pesquisa, espaços de coworking e o que há de mais moderno em infraestrutura para o
-          setor.</p>
+        <p id="historia"> </p>
 
       </div>
     </div>
-
-
-
-
 
     <footer>
       <hr>
       <span>Todos os direitos reservados a Serratec</span>
     </footer>
   </div>
-
-
+  <script src="../../js/sobre.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-
 </html>

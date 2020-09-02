@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;600;500;900&display=swap');
+
 :root{
     --primary-color: #5ca3e2;
     --primary-color-dark: #0679dd;;
     --background-color: #f8f9fa;
     --border-color: #ddd;
+    --text-color: #1e1e1e;
+    --color-primary: #0062cd;
 }
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
 html, body{
     background-color: var(--background-color);
 }

@@ -1,6 +1,6 @@
 (()=>{
     var txt1 = ` O programa visa aumentar a oferta de profissionais qualificados em tecnologia, dando oportunidade a jovens 
-    e adultos, e atrair novas empresas à Região Serrana do Estado do Rio de Janeiro.Um dos pilares de transformação 
+    e adultos, e atrair novas empresas à Região Serrana do Estado do Rio de Janeiro. Um dos pilares de transformação 
     do Serratec é a Residência de Software, que irá contribuir para o desenvolvimento das três cidades serranas: Petrópolis, 
     Teresópolis e Nova Friburgo.`
 

@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/45gWDur.png" width="400"> <img src="https://i.imgur.com/8SshVgL.png" width="400"> 
-<img src="https://i.imgur.com/z5K7wOt.png" width="400"> <img src="https://i.imgur.com/v1gAPu6.png" width="400"> 
+<img src="https://i.imgur.com/45gWDur.png" width="400"> <img src="https://i.imgur.com/z5K7wOt.png" width="400"> 
 
 <h1 align="center"> Trabalho Final Front-End </h1>
 <p align="center"> <strong> Website </strong> desenvolvido para conclusão do módulo front-end do curso de residência de software. </p>

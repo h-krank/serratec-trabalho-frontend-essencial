@@ -40,5 +40,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <a href="https://github.com/DanielNNF">Daniel Araújo</a> |
 <a href="https://github.com/GabrielCarreiro">Gabriel Carreiro</a> |
 <a href="https://github.com/nogueira-jonathan"> Jonathan Santana </a> |
-<a href="https://github.com/Neidamazio"> Nei Damazio</a> 
-
+<a href="https://github.com/Neidamazio"> Nei Damazio</a> |
+<a href="https://github.com/KARLA-DINIZ"> Karla </a>

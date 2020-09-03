@@ -22,7 +22,6 @@
 <strong> Passo 2 > </strong> <i> Outra ferramenta necessária que vamos utilizar é o <strong> Node.Js </strong>. <a href="https://nodejs.org/en/"> Clique aqui </a></i><br>
 <strong> Passo 3 > </strong> <i> Após a instalação das ferramentas você deve abrir o terminal do seu computador. </i><br>
 <strong> Passo 4 > </strong> <i> Altere o diretório de trabalho atual para o local em que deseja salvar. (exemplo: cd desktop).</i><br>
-<strong> Passo 5 > </strong> <i> Faça um clone desse repositório rodando: `git clone https://github.com/GabrielCarreiro/serratec-trabalho-frontend-essencial`</i><br>
 <strong> Passo 5 > </strong> <i> Faça um clone desse repositório rodando: `git clone https://github.com/h-krank/serratec-trabalho-frontend-essencial`</i><br>
 <strong> Passo 6 > </strong> <i> Depois de clonar o repositório entre na pasta rodando pelo terminal: `cd serratec-trabalho-frontend-essencial`; </i><br>
 <strong> Passo 7 > </strong> <i> Digite `npm i` para instalar as dependências do projeto e aguarde. </i><br>
@@ -40,5 +39,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <a href="https://github.com/DanielNNF">Daniel Araújo</a> |
 <a href="https://github.com/GabrielCarreiro">Gabriel Carreiro</a> |
 <a href="https://github.com/nogueira-jonathan"> Jonathan Santana </a> |
-<a href="https://github.com/Neidamazio"> Nei Damazio</a> |
-<a href="https://github.com/KARLA-DINIZ"> Karla </a>
+<a href="https://github.com/KARLA-DINIZ"> Karla Verônica </a> |
+<a href="https://github.com/Neidamazio"> Nei Damazio</a> 
+

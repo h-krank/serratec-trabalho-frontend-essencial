@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/45gWDur.png" width="400"> <img src="https://i.imgur.com/z5K7wOt.png" width="400"> 
+
 <h1 align="center"> Trabalho Final Front-End </h1>
 <p align="center"> <strong> Website </strong> desenvolvido para conclusão do módulo front-end do curso de residência de software. </p>
 
@@ -37,4 +39,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <a href="https://github.com/DanielNNF">Daniel Araújo</a> |
 <a href="https://github.com/GabrielCarreiro">Gabriel Carreiro</a> |
 <a href="https://github.com/nogueira-jonathan"> Jonathan Santana </a> |
+<a href="https://github.com/KARLA-DINIZ"> Karla Verônica </a> |
 <a href="https://github.com/Neidamazio"> Nei Damazio</a> 
+
